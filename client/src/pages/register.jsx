@@ -31,7 +31,7 @@ function Register() {
                 placeholder="Password"
                 name="password"
               />
-            </div>
+            </div>  
             <button
               className="glow-button w-full py-2 rounded-lg bg-sky-500  font-semibold text-white hover:bg-sky-400 focus:outline-none focus:ring-2 focus:ring-sky-500 focus:ring-offset-2 focus:ring-offset-slate-950"
               type="submit"
