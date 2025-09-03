@@ -1,6 +1,6 @@
 
 
-function Login() {
+function LoginDefault() {
   return (
     <div className="bg-gray-900 flex justify-center items-center min-h-screen">
       <div className="bg-gray-700 rounded-lg p-8 max-w-sm w-full shadow-2xl">
@@ -39,4 +39,4 @@ function Login() {
     </div>
   );
 }
-export default Login;
+export default LoginDefault;
