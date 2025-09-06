@@ -33,7 +33,7 @@ async function handleSubmit(e) {
 
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="bg-gray-950 min-h-screen flex justify-center items-center ">
         <div className="text-white bg-gray-700 p-8  max-w-sm w-full shadow-2xl rounded-lg">
           <div className="mb-4">
@@ -44,7 +44,7 @@ async function handleSubmit(e) {
               Join our community and start connecting.
             </p>
           </div>
-
+ 
           <form onSubmit={handleSubmit}>
             <div className=" mb-4">
               <input

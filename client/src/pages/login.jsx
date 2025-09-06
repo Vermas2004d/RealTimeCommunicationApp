@@ -36,7 +36,7 @@ function Login() {
 
   return (
     <div>
-      <Navbar />
+      {/* <Navbar /> */}
       <HeaderForLogin />
       <div className="bg-gray-950 min-h-screen flex justify-center items-center ">
         <div className=" text-white bg-gray-700 p-8 rounded-lg max-w-sm w-full shadow-2xl">
